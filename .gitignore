@@ -3,3 +3,5 @@ venv/
 KMeans_from_Scratch/Stage_[1-6]/__pycache__/
 KMeans_from_Scratch/Stage_1/Student.py
 zipper.sh
+utils/__pycache__/
+
