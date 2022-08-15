@@ -1,0 +1,6 @@
+type: edu
+files:
+- name: Stage_6.py
+  visible: true
+- name: tests.py
+  visible: false
